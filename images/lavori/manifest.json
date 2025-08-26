@@ -1,0 +1,163 @@
+{
+  "generatedAt": "2025-08-26T19:36:15.277Z",
+  "widths": [
+    640,
+    960,
+    1280
+  ],
+  "thumbWidth": 480,
+  "items": {
+    "bagno1": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "bagno2": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "bagno3": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "bagno4": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "bagno5": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "caldaia1": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "clima1": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    },
+    "clima2": {
+      "originalExt": "jpeg",
+      "variants": {
+        "webp": [
+          640,
+          960,
+          1280
+        ],
+        "avif": [
+          640,
+          960,
+          1280
+        ]
+      },
+      "thumb": {
+        "webp": true,
+        "avif": true
+      }
+    }
+  }
+}

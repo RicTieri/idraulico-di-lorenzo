@@ -5,6 +5,9 @@
   "\u0000vite/modulepreload-polyfill.js": [
     "/assets/main-DuqJw78o.ts"
   ],
+  "\u0000vite/preload-helper.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
   "../../../../images/bosch_logo.png": [
     "/assets/main-DuqJw78o.ts"
   ],
@@ -188,6 +191,18 @@
   "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/main-DuqJw78o.ts"
   ],
+  "src/views/CookieView.vue": [
+    "/assets/CookieView-DDzu19UF.js",
+    "/assets/CookieView-CdEFPN5b.css"
+  ],
+  "src/views/CookieView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/CookieView-DDzu19UF.js",
+    "/assets/CookieView-CdEFPN5b.css"
+  ],
+  "src/views/CookieView.vue?vue&type=style&index=0&scoped=9afc7b89&lang.css": [
+    "/assets/CookieView-DDzu19UF.js",
+    "/assets/CookieView-CdEFPN5b.css"
+  ],
   "src/views/HomeView.vue": [
     "/assets/main-DuqJw78o.ts"
   ],
@@ -203,8 +218,23 @@
   "src/views/LavoriView.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/LavoriView.vue?vue&type=style&index=0&scoped=11a1ea76&lang.css": [
+  "src/views/LavoriView.vue?vue&type=style&index=0&scoped=4f2e4a38&lang.css": [
     "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/NotFoundView.vue": [
+    "/assets/NotFoundView-DaOedcnr.js"
+  ],
+  "src/views/PrivacyView.vue": [
+    "/assets/PrivacyView-BnApINGc.js",
+    "/assets/PrivacyView-hn9U1nYw.css"
+  ],
+  "src/views/PrivacyView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/PrivacyView-BnApINGc.js",
+    "/assets/PrivacyView-hn9U1nYw.css"
+  ],
+  "src/views/PrivacyView.vue?vue&type=style&index=0&scoped=80f6e17e&lang.css": [
+    "/assets/PrivacyView-BnApINGc.js",
+    "/assets/PrivacyView-hn9U1nYw.css"
   ],
   "src/views/ServiziView.vue": [
     "/assets/main-DuqJw78o.ts"
@@ -214,5 +244,17 @@
   ],
   "src/views/ServiziView.vue?vue&type=style&index=0&scoped=99ba82dc&lang.css": [
     "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/TerminiView.vue": [
+    "/assets/TerminiView-Bo2IcHoE.js",
+    "/assets/TerminiView-DN5tc3C-.css"
+  ],
+  "src/views/TerminiView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/TerminiView-Bo2IcHoE.js",
+    "/assets/TerminiView-DN5tc3C-.css"
+  ],
+  "src/views/TerminiView.vue?vue&type=style&index=0&scoped=95e9d75e&lang.css": [
+    "/assets/TerminiView-Bo2IcHoE.js",
+    "/assets/TerminiView-DN5tc3C-.css"
   ]
 }
