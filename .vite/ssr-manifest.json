@@ -1,81 +1,218 @@
 {
-  "\u0000plugin-vue:export-helper": [],
-  "\u0000vite/modulepreload-polyfill.js": [],
-  "\u0000vite/preload-helper.js": [],
-  "../../../../images/bosch_logo.png": [],
-  "index.html": [],
-  "node_modules/@unhead/vue/dist/client.mjs": [],
-  "node_modules/@unhead/vue/dist/shared/vue.BYLJNEcq.mjs": [],
-  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
-  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
-  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
-  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/hookable/dist/index.mjs": [],
-  "node_modules/lucide-vue-next/dist/esm/Icon.js": [],
-  "node_modules/lucide-vue-next/dist/esm/createLucideIcon.js": [],
-  "node_modules/lucide-vue-next/dist/esm/defaultAttributes.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/arrow-big-right.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/circle-check-big.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/droplets.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/fan.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/flame.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/house.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/mail.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/map-pin.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/menu.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/phone-call.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/phone.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/search.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/settings.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/shield-check.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/thermometer.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/timer.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/triangle-alert.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/users.js": [],
-  "node_modules/lucide-vue-next/dist/esm/icons/wrench.js": [],
-  "node_modules/lucide-vue-next/dist/esm/shared/src/utils.js": [],
-  "node_modules/unhead/dist/client.mjs": [],
-  "node_modules/unhead/dist/shared/unhead.BpRRHAhY.mjs": [],
-  "node_modules/unhead/dist/shared/unhead.DH45uomy.mjs": [],
-  "node_modules/unhead/dist/shared/unhead.DZbvapt-.mjs": [],
-  "node_modules/unhead/dist/shared/unhead.yem5I2v_.mjs": [],
-  "node_modules/vite-ssg/dist/index.mjs": [],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [],
-  "node_modules/vue-router/dist/vue-router.mjs": [],
-  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/AppFooter.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/AppHeader.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/CookieBanner.vue": [],
-  "src/components/CookieBanner.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/CookieBanner.vue?vue&type=style&index=0&scoped=b7f04a1f&lang.css": [],
-  "src/config.ts": [],
-  "src/main.ts": [],
-  "src/router/index.ts": [],
-  "src/style.css": [],
-  "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/CookieView.vue": [
-    "/assets/CookieView-CaiCQLU2.js"
+  "\u0000plugin-vue:export-helper": [
+    "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/CookieView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CookieView-CaiCQLU2.js"
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/HomeView.vue": [],
-  "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/HomeView.vue?vue&type=style&index=0&scoped=3b5df154&lang.css": [],
-  "src/views/PrivacyView.vue": [
-    "/assets/PrivacyView-CjV_2dlI.js"
+  "../../../../images/bosch_logo.png": [
+    "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/PrivacyView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PrivacyView-CjV_2dlI.js"
+  "index.html": [
+    "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/ServiziView.vue": [],
-  "src/views/ServiziView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/ServiziView.vue?vue&type=style&index=0&scoped=785e49ec&lang.css": [],
-  "src/views/TerminiView.vue": [
-    "/assets/TerminiView-2NA2gQnH.js"
+  "node_modules/@unhead/vue/dist/client.mjs": [
+    "/assets/main-DuqJw78o.ts"
   ],
-  "src/views/TerminiView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TerminiView-2NA2gQnH.js"
+  "node_modules/@unhead/vue/dist/shared/vue.BYLJNEcq.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/Icon.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/createLucideIcon.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/defaultAttributes.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/arrow-big-right.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/circle-check-big.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/dot.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/droplets.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/external-link.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/fan.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/flame.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/house.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/images.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/mail.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/map-pin.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/menu.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/phone-call.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/phone.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/search.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/settings.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/shield-check.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/thermometer.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/timer.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/triangle-alert.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/users.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/wrench.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/icons/x.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/lucide-vue-next/dist/esm/shared/src/utils.js": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/unhead/dist/client.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/unhead/dist/shared/unhead.BpRRHAhY.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/unhead/dist/shared/unhead.DH45uomy.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/unhead/dist/shared/unhead.DZbvapt-.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/unhead/dist/shared/unhead.yem5I2v_.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/AppFooter.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/AppHeader.vue": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/AppHeader.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/AppHeader.vue?vue&type=style&index=0&scoped=ceb1811f&lang.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/AppHeader.vue?vue&type=style&index=1&lang.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/CookieBanner.vue": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/CookieBanner.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/components/CookieBanner.vue?vue&type=style&index=0&scoped=b7f04a1f&lang.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/composables/useScrollReveal.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/config.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/data/works.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/main.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/router/index.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/style.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/HomeView.vue": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/HomeView.vue?vue&type=style&index=0&scoped=f4b4d988&lang.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/LavoriView.vue": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/LavoriView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/LavoriView.vue?vue&type=style&index=0&scoped=11a1ea76&lang.css": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/ServiziView.vue": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/ServiziView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/main-DuqJw78o.ts"
+  ],
+  "src/views/ServiziView.vue?vue&type=style&index=0&scoped=99ba82dc&lang.css": [
+    "/assets/main-DuqJw78o.ts"
   ]
 }
