@@ -55,27 +55,27 @@
   "src/style.css": [],
   "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [],
   "src/views/CookieView.vue": [
-    "/assets/CookieView-C8JbMcQ0.js"
+    "/assets/CookieView-CaiCQLU2.js"
   ],
   "src/views/CookieView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CookieView-C8JbMcQ0.js"
+    "/assets/CookieView-CaiCQLU2.js"
   ],
   "src/views/HomeView.vue": [],
   "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/HomeView.vue?vue&type=style&index=0&scoped=702a2dfa&lang.css": [],
+  "src/views/HomeView.vue?vue&type=style&index=0&scoped=3b5df154&lang.css": [],
   "src/views/PrivacyView.vue": [
-    "/assets/PrivacyView-BI0FUW40.js"
+    "/assets/PrivacyView-CjV_2dlI.js"
   ],
   "src/views/PrivacyView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PrivacyView-BI0FUW40.js"
+    "/assets/PrivacyView-CjV_2dlI.js"
   ],
   "src/views/ServiziView.vue": [],
   "src/views/ServiziView.vue?vue&type=script&setup=true&lang.ts": [],
   "src/views/ServiziView.vue?vue&type=style&index=0&scoped=785e49ec&lang.css": [],
   "src/views/TerminiView.vue": [
-    "/assets/TerminiView-Cc1osCxc.js"
+    "/assets/TerminiView-2NA2gQnH.js"
   ],
   "src/views/TerminiView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TerminiView-Cc1osCxc.js"
+    "/assets/TerminiView-2NA2gQnH.js"
   ]
 }
