@@ -55,27 +55,27 @@
   "src/style.css": [],
   "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [],
   "src/views/CookieView.vue": [
-    "/idraulico-di-lorenzo/assets/CookieView-Yiy6xgZn.js"
+    "/assets/CookieView-C8JbMcQ0.js"
   ],
   "src/views/CookieView.vue?vue&type=script&setup=true&lang.ts": [
-    "/idraulico-di-lorenzo/assets/CookieView-Yiy6xgZn.js"
+    "/assets/CookieView-C8JbMcQ0.js"
   ],
   "src/views/HomeView.vue": [],
   "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [],
   "src/views/HomeView.vue?vue&type=style&index=0&scoped=702a2dfa&lang.css": [],
   "src/views/PrivacyView.vue": [
-    "/idraulico-di-lorenzo/assets/PrivacyView-C2ujPE5s.js"
+    "/assets/PrivacyView-BI0FUW40.js"
   ],
   "src/views/PrivacyView.vue?vue&type=script&setup=true&lang.ts": [
-    "/idraulico-di-lorenzo/assets/PrivacyView-C2ujPE5s.js"
+    "/assets/PrivacyView-BI0FUW40.js"
   ],
   "src/views/ServiziView.vue": [],
   "src/views/ServiziView.vue?vue&type=script&setup=true&lang.ts": [],
   "src/views/ServiziView.vue?vue&type=style&index=0&scoped=785e49ec&lang.css": [],
   "src/views/TerminiView.vue": [
-    "/idraulico-di-lorenzo/assets/TerminiView--nhtJdin.js"
+    "/assets/TerminiView-Cc1osCxc.js"
   ],
   "src/views/TerminiView.vue?vue&type=script&setup=true&lang.ts": [
-    "/idraulico-di-lorenzo/assets/TerminiView--nhtJdin.js"
+    "/assets/TerminiView-Cc1osCxc.js"
   ]
 }
