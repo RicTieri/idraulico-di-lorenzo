@@ -1,6 +1,7 @@
 {
   "\u0000plugin-vue:export-helper": [],
   "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
   "../../../../images/bosch_logo.png": [],
   "index.html": [],
   "node_modules/@unhead/vue/dist/client.mjs": [],
@@ -45,14 +46,36 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/AppFooter.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/AppHeader.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/CookieBanner.vue": [],
+  "src/components/CookieBanner.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/CookieBanner.vue?vue&type=style&index=0&scoped=b7f04a1f&lang.css": [],
+  "src/config.ts": [],
   "src/main.ts": [],
   "src/router/index.ts": [],
   "src/style.css": [],
   "src/views/ChiSiamoView.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/views/CookieView.vue": [
+    "/idraulico-di-lorenzo/assets/CookieView-Yiy6xgZn.js"
+  ],
+  "src/views/CookieView.vue?vue&type=script&setup=true&lang.ts": [
+    "/idraulico-di-lorenzo/assets/CookieView-Yiy6xgZn.js"
+  ],
   "src/views/HomeView.vue": [],
   "src/views/HomeView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/HomeView.vue?vue&type=style&index=0&scoped=88e2c35a&lang.css": [],
+  "src/views/HomeView.vue?vue&type=style&index=0&scoped=702a2dfa&lang.css": [],
+  "src/views/PrivacyView.vue": [
+    "/idraulico-di-lorenzo/assets/PrivacyView-C2ujPE5s.js"
+  ],
+  "src/views/PrivacyView.vue?vue&type=script&setup=true&lang.ts": [
+    "/idraulico-di-lorenzo/assets/PrivacyView-C2ujPE5s.js"
+  ],
   "src/views/ServiziView.vue": [],
   "src/views/ServiziView.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/views/ServiziView.vue?vue&type=style&index=0&scoped=19965d71&lang.css": []
+  "src/views/ServiziView.vue?vue&type=style&index=0&scoped=785e49ec&lang.css": [],
+  "src/views/TerminiView.vue": [
+    "/idraulico-di-lorenzo/assets/TerminiView--nhtJdin.js"
+  ],
+  "src/views/TerminiView.vue?vue&type=script&setup=true&lang.ts": [
+    "/idraulico-di-lorenzo/assets/TerminiView--nhtJdin.js"
+  ]
 }
